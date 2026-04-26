@@ -1,5 +1,9 @@
 # InfraCore – Virtualisierung & Storage
 
+## Vorschau
+
+![Screenshot](screenshot.png)
+
 Landing Page für IT-Dienstleistungen im Bereich Virtualisierung und Storage.
 
 ## Inhalt
